@@ -1,1 +1,3 @@
 initial code
+function2
+
